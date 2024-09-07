@@ -1,5 +1,7 @@
 # EscolaDNC_Desafio-7
 
+## Dataset : **https://drive.google.com/file/d/19kn9xOUzwOVEvXBlxvLC0_1Oc1QG5Krz/view?usp=sharing**
+
 ## 🎯 Etapas de Desenvolvimento
 
 ### Etapa 01) Análise exploratória dos dados
